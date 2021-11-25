@@ -4,9 +4,9 @@ los caracteres de dicha columna para posteriormente transfomarlo/procesarlo a he
 Dando como resultado un Hash String. La salida son los hexadecimales concatenados, es decir, el Hash String.
 
 Autores:
-A01653120 - Yusdivia Molina Román
-A01658318 - Jesús Daniel Lara Yamamoto
-A01023808 - Héctor Arturo Noyola Mondragón
+Yusdivia Molina 
+Daniel Yamamoto
+Héctor Noyola
 
 Fecha de modificación: 07/09/2021
 */
